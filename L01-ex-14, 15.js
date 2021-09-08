@@ -34,8 +34,8 @@ var finalScore = Quiz(questionList, 0);
 console.log("Quiz over!");
 console.log("Final score is " + finalScore);
 
-if(highScore < finalScore){
-  highScore = finalScore;
+if(highscore < finalScore){
+  highscore = finalScore;
   console.log("Congratulations! This is your highscore.");
   console.log("lets celebrate by taking a screenshot.");
 } 
