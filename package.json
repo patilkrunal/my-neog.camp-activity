@@ -1,0 +1,23 @@
+{
+  "name": "my-neogcamp-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patilkrunal/my-neog.camp-activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patilkrunal/my-neog.camp-activity/issues"
+  },
+  "homepage": "https://github.com/patilkrunal/my-neog.camp-activity#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
